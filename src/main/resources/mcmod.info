@@ -1,0 +1,16 @@
+[
+{
+  "modid": "aimexpert",
+  "name": "AimExpert",
+  "description": "Added a custom crosshair for the game.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["EndWithMe"],
+  "credits": "EndWithMe",
+  "logoFile": "assets/aimexpert/textures/icons/logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
