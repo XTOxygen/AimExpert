@@ -1,0 +1,16 @@
+[
+{
+  "modid": "aimexpert",
+  "name": "AimExpert",
+  "description": "Custom crosshairs with black outline, two color gradient and click driven breathing.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["EndWithMe"],
+  "credits": "EndWithMe",
+  "logoFile": "assets/aimexpert/textures/icons/logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
